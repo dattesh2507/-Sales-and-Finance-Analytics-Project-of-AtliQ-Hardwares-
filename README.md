@@ -1,4 +1,4 @@
-# Sales-and-Finance-Analytics-Project-of-AtliQ-Hardwares 
+# <img src="https://miro.medium.com/v2/resize:fit:1400/1*8bUjUiCWk0VhS8-lgAj0Og.png" width="4%" height="4%"> Sales-and-Finance-Analytics-Project-of-AtliQ-Hardwares 
 
 
 # Problem Statement: 
@@ -67,3 +67,10 @@ Possess a refined understanding of Sales and Finance Reports.
 Capable of designing user-centric reports with empathy in mind. 
 Experienced in optimizing report generation through meticulous fine-tuning. 
 Skillful in developing a systematic approach to devising a report-building plan.
+
+
+
+## Data Model:
+### Entity Relationship Diagram (ERD):
+
+<img src="https://github.com/5ifar/AtliQHardware_Sales_and_Finance_Analytics/blob/main/Assets/AtliQ%20Hardware%20Data%20Model%20ERD%20Final.JPG" width="100%" height="100%">
