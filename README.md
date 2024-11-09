@@ -1,7 +1,7 @@
 # <img src="https://miro.medium.com/v2/resize:fit:1400/1*8bUjUiCWk0VhS8-lgAj0Og.png" width="4%" height="4%"> Sales-and-Finance-Analytics-Project-of-AtliQ-Hardwares 
 
 
-# Problem Statement: 
+# 🧐Problem Statement: 
 AtliQ Hardwares, a leading hardware company specializing in PCs, printers, mice, and 
 computers with a global reach, faces the challenge of optimizing sales and improving 
 net gross margins. 
