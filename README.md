@@ -86,3 +86,9 @@ Skillful in developing a systematic approach to devising a report-building plan.
 
 ![image](https://github.com/user-attachments/assets/fe9dc5d0-4f9d-4e40-86e2-0fafa8ba9234)
 
+
+## P&L Fiscal Month
+![image](https://github.com/user-attachments/assets/5834ee8e-5a92-4524-bbff-2baeaa8f6783)
+
+
+
