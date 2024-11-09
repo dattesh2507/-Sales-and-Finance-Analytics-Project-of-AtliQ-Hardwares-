@@ -1,4 +1,5 @@
-# Sales-and-Finance-Analytics-Project-of-AtliQ-Hardwares
+# Sales-and-Finance-Analytics-Project-of-AtliQ-Hardwares ![atliq_logo](https://github.com/user-attachments/assets/a843eb54-f1ff-43c2-a108-ca141de79f09)
+
 
 
 � Problem Statement: 
