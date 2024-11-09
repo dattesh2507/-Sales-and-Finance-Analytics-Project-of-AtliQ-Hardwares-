@@ -74,3 +74,8 @@ Skillful in developing a systematic approach to devising a report-building plan.
 ### Entity Relationship Diagram (ERD):
 
 <img src="https://github.com/5ifar/AtliQHardware_Sales_and_Finance_Analytics/blob/main/Assets/AtliQ%20Hardware%20Data%20Model%20ERD%20Final.JPG" width="100%" height="100%">
+
+
+**India Sales Report**
+![image](https://github.com/user-attachments/assets/be64e8db-eecf-4ff4-9a58-c9670e64322f)
+
